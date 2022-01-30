@@ -1,0 +1,36 @@
+[
+  {
+    "imageFile": "style01",
+    "imageID":1,
+    "style": [{"id":0,"name":"casual"},{"id":5,"name":"normcore"}],
+    "coordiID": 120,
+    "coordi": [{"id": "14", "name": "longsleeve", "type": "top"}, {"id": "10", "name": "jeans", "type": "bottom"}, {"id": "15", "name": "parka", "type": "outer"}],
+    "temp":3
+  },
+  {
+    "imageFile": "style02",
+    "imageID":2,
+    "style": [{"id":2,"name":"formal"},{"id":6,"name":"modern"}],
+    "coordiID": 146,
+    "coordi": [{"id": "14", "name": "longsleeve", "type": "top"}, {"id": "22", "name": "slacks", "type": "bottom"}, {"id": "2", "name": "blazer", "type": "outer"}],
+    "temp":4
+  },
+  {
+    "imageFile": "style03",
+    "imageID":3,
+    "style": [{"id":3,"name":"feminine"}],
+    "coordiID": 512,
+    "coordi": [{"id": "7", "name": "dress", "type": "dress"}],
+    "temp":0
+  },
+  {
+    "imageFile": "style04",
+    "imageID":4,
+    "style": [{"id":1,"name":"sporty"},{"id":4,"name":"athleisure"}],
+    "coordiID": 56,
+    "coordi": [{"id": "9", "name": "hoodie", "type": "top"}, {"id": "26", "name": "trainingshorts", "type": "bottom"}],
+    "temp":1
+  }
+
+
+]

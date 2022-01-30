@@ -1,0 +1,32 @@
+[
+  {
+    "imageFile": "style01",
+    "imageID":1,  
+    "coordiID": 120,
+    "temp":3,
+	"rating":1
+  },
+  {
+    "imageFile": "style02",
+    "imageID":2,
+    "coordiID": 146,
+    "temp":4,
+	"rating":2
+  },
+  {
+    "imageFile": "style03",
+    "imageID":3,
+    "coordiID": 512,
+    "temp":0,
+	"rating":3
+  },
+  {
+    "imageFile": "style04",
+    "imageID":4,
+    "coordiID": 56,
+    "temp":1,
+	"rating":4
+  }
+
+
+]
